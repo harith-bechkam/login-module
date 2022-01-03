@@ -125,7 +125,7 @@ router.post('/forgotpassword', validateUserForgotPasswordFields, async (req, res
         await user.save()
 
         //creating reseturl token
-        const resetUrl = `http://localhost:3000/resetPassword/${resetToken}`
+        const resetUrl = `http://login-module1.herokuapp.com/resetPassword/${resetToken}`
 
         //creating email stuff
         const message = `
