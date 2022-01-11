@@ -1,0 +1,1 @@
+export const END_POINT = 'https://payment-gateway-node-be.herokuapp.com';
