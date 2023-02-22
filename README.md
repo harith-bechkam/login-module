@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-![alt text](https://media.istockphoto.com/id/620951116/photo/panoramic-view-of-colorful-sunrise-in-mountains.jpg?s=612x612&w=0&k=20&c=6IO5LBwLVSBPxQD4L5NlrxRkygeocjA5OKg8iKqvT58=)
+![alt text](https://media.istockphoto.com/id/620951116/photo/panoramic-view-of-colorful-sunrise-in-mountains.jpg?s=612x612&w=0&k=20&c=6IO5LBwLVSBPxQD4L5NlrxRkygeocjA5OKg8iKqvT58=) thulasi
